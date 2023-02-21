@@ -5,7 +5,7 @@
 
 ## Description
 
-"Onoranze Funebri is a platform designed to provide comprehensive information and resources for funeral honours, all while following accessibility guidelines and conventions. Our platform is built with respect to the Web Content Accessibility Guidelines (WCAG) and Accessible Rich Internet Applications (ARIA) standards, ensuring that it is accessible to all users, including those with disabilities. We believe that honoring fallen personnel should be a dignified and meaningful experience for everyone, regardless of their abilities. "
+Onoranze Funebri is a platform designed to provide comprehensive information and resources for funeral honours, all while following accessibility guidelines and conventions. Our platform is built with respect to the Web Content Accessibility Guidelines (WCAG) and Accessible Rich Internet Applications (ARIA) standards, ensuring that it is accessible to all users, including those with disabilities. We believe that honoring fallen personnel should be a dignified and meaningful experience for everyone, regardless of their abilities.
 
 ## Features
 * Agency Service
